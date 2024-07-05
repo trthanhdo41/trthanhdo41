@@ -6,5 +6,7 @@
 - 📫 How to reach me: 
   - **Email**: trthanhdo41@gmail.com
   - **LinkedIn**: [linkedin.com/in/do-tran-3a1899315](https://www.linkedin.com/in/do-tran-3a1899315)
+  - **Facebook**: [facebook.com/tksdo.04](https://www.facebook.com/tksdo.04)
+  - **Phone**: 0888889805
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love participating in coding competitions and hackathons, and I often experiment with new technologies in my free time.
